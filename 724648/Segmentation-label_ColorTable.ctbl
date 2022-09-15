@@ -1,0 +1,5 @@
+# Color table file D:/4plus4/segementations/724648/Segmentation-label_ColorTable.ctbl
+# 3 values
+0 Background 0 0 0 0
+1 dura 128 174 128 255
+2 SC 241 214 145 255
