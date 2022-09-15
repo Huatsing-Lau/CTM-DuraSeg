@@ -1,6 +1,6 @@
 # CTM-DuraSeg
 
-Code for the paper: Automatic Segmentation of Dura for Quantitative of LUmar Stenosis: a deep learning study with 518 Myelograms. 
+Code for the paper: Automatic Segmentation of Dura for Quantitative of Lumar Stenosis: a deep learning study with 518 Myelograms. 
 
 ## Dependencies
 This code depends on the follwing libraries:
